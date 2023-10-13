@@ -67,7 +67,7 @@ To experience this project:
 ## Next Steps
 This project offers a simplified view of how React compiles and renders elements. To unlock React's full potential, consider delving into popular React libraries and frameworks, and explore the official React documentation.
 
-### Happy coding and enjoy your journey into the inner workings of React!
+#### Happy coding and enjoy your journey into the inner workings of React!
 
 
 
