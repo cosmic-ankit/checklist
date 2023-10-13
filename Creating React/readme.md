@@ -57,7 +57,11 @@ React builds a tree of elements for each component you return, structuring them 
 To experience this project:
 
 1)Open index.html in a web browser.
+
+
 2)Ensure that the script reference in index.html correctly points to customReact.js.
+
+
 3)Create your own React elements, as demonstrated in the provided example, and call the customRender function to render them in the DOM.
 
 ## Next Steps
